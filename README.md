@@ -24,7 +24,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 Responsive marketing landing page for Zingen, a Karaoke app.
-- [Access the finished project]()
+- [Access the finished project](https://andreskull2.github.io/lp-patins/)
 - [Watch the classes](https://www.rocketseat.com.br/formacao/fullstack)
 
 ## 🔖 Layout
